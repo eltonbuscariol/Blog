@@ -7,6 +7,7 @@
 ### Com recursos a serem aplicados em frentes variadas. Podemos destacar alguns:
 
 
+|   |   |
 |---|---|
 |<center>**Rotação de Ips**</center>|<center>**Resolução de Captchas e ReCaptchas**</center>|
 |<center><img src="assets/rotating-ip.png" height="200" width="300"></center> |<center><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRU_Sz9kenoZQDkhm3VmXZFLWns5pTiQuRkKSAo0_w18t57-CrO&usqp=CAU" height="200" width="300"></center>|
